@@ -13,11 +13,10 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)]
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)]
-  [![Lua](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)]
-  [![C++](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)]
-  [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)]
+  [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=FFFFFF)]
+  [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=FFFFFF)]
+  [![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=FFFFFF)]
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)]
-  [![Golang](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)]
 
 - 💻 I work using:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://blog.i-xiao.space/)
