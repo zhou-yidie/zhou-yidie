@@ -1,0 +1,6 @@
+fetch('https://api.github.com/users/zhou-yidie/events/public')
+  .then(response => response.json())
+  .then(data => {
+    // 处理贡献数据并在页面上显示
+    console.log(data);
+  });
