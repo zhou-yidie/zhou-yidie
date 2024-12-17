@@ -8,26 +8,26 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
 
 - 🚀 I use daily:
-  [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=FFFFFF)]
-  [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=FFFFFF)]
-  [![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=FFFFFF)]
-  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://blog.i-xiao.space/)
-  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://blog.i-xiao.space/)
-  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://blog.i-xiao.space/)
-  [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://blog.i-xiao.space/)
-  [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://blog.i-xiao.space/)
-  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)]
+  [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=FFFFFF)](https://github.com/zhou-yidie/)
+  [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=FFFFFF)](https://github.com/zhou-yidie/)
+  [![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=FFFFFF)](https://github.com/zhou-yidie/)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://github.com/zhou-yidie/)
+  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://github.com/zhou-yidie/)
+  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://github.com/zhou-yidie/)
+  [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://github.com/zhou-yidie/)
+  [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://github.com/zhou-yidie/)
+  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://github.com/zhou-yidie/)
 
 - 💻 I work using:
-  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://blog.i-xiao.space/)
-  [![GoLand](https://img.shields.io/badge/-GoLand-000?logo=goland&logoColor=00ACC1)](https://blog.i-xiao.space/)
-  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://blog.i-xiao.space/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://blog.i-xiao.space/)
-  [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://blog.i-xiao.space/)
-  [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://blog.i-xiao.space/)
-  [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)](https://blog.i-xiao.space/)
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://blog.i-xiao.space/)
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://blog.i-xiao.space/)
+  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://github.com/zhou-yidie/)
+  [![GoLand](https://img.shields.io/badge/-GoLand-000?logo=goland&logoColor=00ACC1)](https://github.com/zhou-yidie/)
+  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://github.com/zhou-yidie/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/zhou-yidie/)
+  [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://github.com/zhou-yidie/)
+  [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://github.com/zhou-yidie/)
+  [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)](https://github.com/zhou-yidie/)
+  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://github.com/zhou-yidie/)
+  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://github.com/zhou-yidie/)
 
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
