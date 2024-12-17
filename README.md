@@ -8,14 +8,14 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
 
 - 🚀 I use daily:
-  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)]
-  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)]
-  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]
-  [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)]
-  [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)]
   [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=FFFFFF)]
   [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=FFFFFF)]
   [![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=FFFFFF)]
+  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://blog.i-xiao.space/)
+  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://blog.i-xiao.space/)
+  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://blog.i-xiao.space/)
+  [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://blog.i-xiao.space/)
+  [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://blog.i-xiao.space/)
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)]
 
 - 💻 I work using:
@@ -26,14 +26,8 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://blog.i-xiao.space/)
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://blog.i-xiao.space/)
   [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)](https://blog.i-xiao.space/)
-
-- ⚙️ I also use and work:
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://blog.i-xiao.space/)
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://blog.i-xiao.space/)
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)](https://blog.i-xiao.space/)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://blog.i-xiao.space/)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://blog.i-xiao.space/)
-
 
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
