@@ -5,7 +5,7 @@
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
 
 [![QQ 邮箱](https://img.shields.io/badge/QQ%20Mail-2A85D3?style=plastic&link=mailto:2261328488@qq.com)](mailto:2261328488@qq.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/zhou-yidie/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
 
 - 🚀 I use daily:
   [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=FFFFFF)](https://github.com/zhou-yidie/)
@@ -32,26 +32,26 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/zhou-yidie/count.svg)](https://github.com/zhou-yidie/) visitor, Thank You!🎉🎉
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&theme=flag-india)](https://github.com/all-smile/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhou-yidie&theme=flag-india)](https://github.com/zhou-yidie/github-readme-stats) -->
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhou-yidie&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=zhou-yidie&count_private=true&show_icons=true" height=145/></span>](https://github.com/zhou-yidie/)
 
 <!--
 <table border="0">
 <tr>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" alt="Top Langs" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhou-yidie&layout=compact" alt="Top Langs" height="160" />
 </td>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true" alt="all-smile's GitHub stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=zhou-yidie&show_icons=true" alt="zhou-yidie's GitHub stats" height="160" />
 </td>
 </tr>
 </table>
 -->
 
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact)
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhou-yidie&layout=compact)
+![zhou-yidie's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhou-yidie&show_icons=true)
 -->
 
 ### My Skill Set
@@ -61,16 +61,14 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/zhou-yid
 
 #### Frontend
 <div align="center">
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/640px-Lua-Logo.svg.png" alt="Lua" height="50" />
+<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/96/golang_logo_icon_171073.png" alt="Go" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/96/python_vertical_logo_icon_168039.png" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 </div>
@@ -107,7 +105,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/zhou-yid
 
 <br/>
 <div align="center">
-  <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
+  <a href="https://github.com/zhou-yidie" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
         align="center"
